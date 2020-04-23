@@ -1,0 +1,41 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="IDOL_GROUP" directorySegmentName="seg_0" id="B3C6E363-000F-AE87-C67F-B1FDBFA87ADB">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+<schemaObject>D9CFDEEB-61D9-BF66-1D2C-D2810C83F73A</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>D40731EA-142F-9416-5E84-09F3D02430C2</segment>
+<tableSpace>A9E4550B-E280-7BE2-6FE0-46DAFE1B86DA</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="DEBUT_YEAR" id="24F041AD-6BE7-DFDE-7FE5-ED28A3E70BB8">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMPANY" id="440CE883-605D-9FFA-0F24-CC01A079BC66">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DEBUT_ALBUM" id="802B2418-4BBC-5BD3-6652-DBBD94135E64">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GROUP_NAME" id="8ADB0EB4-0340-D510-F438-A56335967580">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GENDER" id="ACC5B1B4-CF0E-A23D-1576-AD17A717A8E8">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+</TableProxyOraclev11g>

@@ -1,0 +1,51 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="IDOL_MEMBER" directorySegmentName="seg_0" id="22A7393C-EC25-89DC-8BAB-29FE06B6D104">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+<schemaObject>D9CFDEEB-61D9-BF66-1D2C-D2810C83F73A</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>D40731EA-142F-9416-5E84-09F3D02430C2</segment>
+<tableSpace>A9E4550B-E280-7BE2-6FE0-46DAFE1B86DA</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="REAL_NAME" id="2308594D-E820-547C-547D-362BA3453125">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="BIRTHDAY" id="629D8277-B05D-1338-F3C5-9A5756AE9213">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SNS_INFO" id="9764629F-D750-E08A-9C21-E7E77E6E17BC">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GROUP_NAME" id="D74AD72E-2DD9-6DB2-CB84-3180AA41680E">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MEMBER_NAME" id="E0437FD3-242D-D1E4-B00A-1C9242421F1A">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="IDX_IDOLMEM" id="3A63CD41-5763-D0BF-E12D-EC94DB303454">
+<createdBy>JUNGMINA</createdBy>
+<createdTime>2020-04-23 14:52:52 UTC</createdTime>
+<ownerDesignName>IDOL</ownerDesignName>
+<schemaObject>D9CFDEEB-61D9-BF66-1D2C-D2810C83F73A</schemaObject>
+<segment>471F50E2-7FC2-87A3-ED8E-7D0BBF934C42</segment>
+<tableSpace>A9E4550B-E280-7BE2-6FE0-46DAFE1B86DA</tableSpace>
+</IndexProxy>
+</indexProxies>
+</TableProxyOraclev11g>
